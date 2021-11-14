@@ -1,0 +1,93 @@
+[
+    {
+        "StoreId": "Magalu",
+        "Name": "Água Tônica Antarctica Zero Açúcares - 350ml 12 Unidades",
+        "Url": "https://clube.magazineluiza.com.br/agua-tonica-antarctica-zero-acucares-350ml-12-unidades/p/225472100/me/agut/?n=clubedosmagalus",
+        "UnitaryQuantity": 12,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Cerveja Brahma Chopp Lager Pilsen 12 Unidades - 350ml",
+        "Url": "https://clube.magazineluiza.com.br/cerveja-brahma-chopp-lager-pilsen-12-unidades-350ml/p/226721600/me/bbid/?n=clubedosmagalus",
+        "UnitaryQuantity": 12,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Cerveja Brahma Duplo Malte 350ml - 12 Unidades",
+        "Url": "https://clube.magazineluiza.com.br/cerveja-brahma-duplo-malte-350ml-12-unidades/p/225542300/me/bbid/?n=clubedosmagalus",
+        "UnitaryQuantity": 12,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Cerveja Eisenbahn Pilsen 12 Unidades - 350ml",
+        "Url": "https://clube.magazineluiza.com.br/cerveja-eisenbahn-puro-malte-pilsen-12-unidades-lata-350ml/p/226449900/me/bbid/?n=clubedosmagalus",
+        "UnitaryQuantity": 12,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Cerveja Heineken Pilsen 600ml - 12 Unidades",
+        "Url": "https://clube.magazineluiza.com.br/cerveja-heineken-puro-malte-pilsen-12-unidades-garrafa-600ml/p/225338900/me/bbid/?n=clubedosmagalus",
+        "UnitaryQuantity": 12,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Cerveja Heineken Premium Puro Malte Lager - 12 Unidades 350ml",
+        "Url": "https://clube.magazineluiza.com.br/cerveja-heineken-premium-puro-malte-pilsen-lager-12-unidades-lata-350ml/p/225339000/me/bbid/?n=clubedosmagalus",
+        "UnitaryQuantity": 12,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Cerveja Heineken Puro Malte Lager Premium - Long Neck 6 Garrafas de 330ml",
+        "Url": "https://clube.magazineluiza.com.br/cerveja-heineken-puro-malte-pilsen-lager-premium-long-neck-6-garrafas-de-330ml/p/225339400/me/bbid/?n=clubedosmagalus",
+        "UnitaryQuantity": 6,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Gin Tanqueray London Dry Clássico e Seco 750ml",
+        "Url": "https://clube.magazineluiza.com.br/gin-tanqueray-london-dry-classico-e-seco-750ml/p/225378700/me/giin/?n=clubedosmagalus",
+        "UnitaryQuantity": 1,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Samsung Galaxy M62 128GB Preto",
+        "Url": "https://clube.magazineluiza.com.br/smartphone-samsung-galaxy-m62-128gb-preto-4g-8gb-ram-tela-6-7-cam.-quadrupla-32mp/p/231105700/te/galx/?n=clubedosmagalus",
+        "UnitaryQuantity": 1,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Cerveja Spaten Puro Malte Munich Helles Lager - 12 Unidades Lata 350ml",
+        "Url": "https://clube.magazineluiza.com.br/cerveja-spaten-puro-malte-munich-helles-lager-12-unidades-lata-350ml/p/232270700/me/cvej/?n=clubedosmagalus",
+        "UnitaryQuantity": 12,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Cerveja Heineken Lager - Pack 24 Latas de 350ml",
+        "Url": "https://clube.magazineluiza.com.br/cerveja-heineken-lager-pack-24-latas-de-350ml/p/229274100/me/bbid/?n=clubedosmagalus",
+        "UnitaryQuantity": 24,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Gin Gordons London Dry Clássico e Seco 750ml",
+        "Url": "https://clube.magazineluiza.com.br/gin-gordons-london-dry-classico-e-seco-750ml/p/225377800/me/giin/?n=clubedosmagalus",
+        "UnitaryQuantity": 1,
+        "Active": true
+    },
+    {
+        "StoreId": "Magalu",
+        "Name": "Smartphone Samsung Galaxy A02s 32GB Vermelho 4G",
+        "Url": "https://clube.magazineluiza.com.br/smartphone-samsung-galaxy-a02s-32gb-vermelho-4g-octa-core-3gb-ram-6-5-cam.-tripla-selfie-5mp/p/155615600/te/ga02/?n=clubedosmagalus",
+        "UnitaryQuantity": 1,
+        "Active": true
+    }
+]
